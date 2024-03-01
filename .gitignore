@@ -4,3 +4,4 @@ venv/
 **/images
 **.pkl
 HandsOnML_Repo
+.idea
